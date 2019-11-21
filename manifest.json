@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "my extension name",
-  "description": "My extension description!",
+  "name": "fbDialogue",
+  "description": "Once upon a time I had a real conversation on Facebook and it felt good.",
   "version": "1.0",
   "homepage_url": "https://github.com/calibro/browser-extension-boileplate",
   "icons": {

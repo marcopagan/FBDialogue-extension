@@ -1,12 +1,256 @@
-.my-beautiful-extension {
-  transform: rotate(180deg);
-  border: 10px red solid;
+/* Intero post */
+.my-beautiful-extension .userContentWrapper {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
 }
 
-.my-beautiful-extension .rep-main-logo {
-  transform: rotate(180deg) !important;
+.my-beautiful-extension .userContentWrapper:hover {
+    opacity: 1;
 }
 
-/* .my-beautiful-extension .logoRotated {
-  transform: rotate(180deg) !important;
-} */
+
+
+/* Testo commenti */
+.my-beautiful-extension ._1mf span {
+    opacity: 0;
+}
+
+.my-beautiful-extension ._3w53 img {
+    display: none;
+}
+
+.my-beautiful-extension ._2tx5 div {
+    display: none;
+}
+
+.my-beautiful-extension ._6cuy div[tabindex="0"] {
+    display: none;
+}
+
+.my-beautiful-extension ._72vr span {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension ._72vr span:hover {
+    opacity: 1;
+}
+
+.my-beautiful-extension ._6qdm{
+    display: none;
+}
+
+.my-beautiful-extension ._3l3x a {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension ._3l3x a:hover {
+    opacity: 1;
+}
+
+.my-beautiful-extension ._ezo span {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension ._ezo span:hover {
+    opacity: 1;
+}
+
+.my-beautiful-extension ._6rsx span {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension ._6rsx span:hover {
+    opacity: 1;
+}
+
+
+
+/* Reazioni-mi piace */
+.my-beautiful-extension ._66lg {
+    display: none;
+}
+
+.my-beautiful-extension ._8c74{
+    display: none;
+}
+
+.my-beautiful-extension ._6cuq{
+    display: none;
+}
+
+
+
+/* Panelli laterali */
+.my-beautiful-extension ._64a{
+    position: fixed;
+    /*top: -8.2%;*/
+    top: -5.4%;
+    right: -3%;
+    transform: scale(.7);
+    filter: grayscale(100);
+}
+
+.my-beautiful-extension .uiFutureSideNav{
+    position: fixed;
+    top: 3%;
+    left: 0%;
+    transform: scale(.85);
+    filter: grayscale(100);
+}
+
+.my-beautiful-extension div[id="contentArea"] {
+    min-width: 100vh;
+    position: absolute;
+    left: -31%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.my-beautiful-extension ._nyb {
+    display: none;
+}
+
+.my-beautiful-extension ._16ve {
+    display: none;
+}
+
+.my-beautiful-extension ._4bl9 textarea {
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*.my-beautiful-extension .uiFutureSideNav i{
+    animation-name: jump;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}*/
+
+
+
+
+
+
+
+/* Testo post 
+.my-beautiful-extension p {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension p:hover {
+    opacity: 1;
+}
+
+.my-beautiful-extension ._5pbx a {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension ._5pbx a:hover {
+    opacity: 1;
+}
+
+.my-beautiful-extension ._58cn span {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension ._58cn span:hover {
+    opacity: 1;
+}
+
+.my-beautiful-extension .text_exposed_root a {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension .text_exposed_root a:hover {
+    opacity: 1;
+}
+
+.my-beautiful-extension ._5mfr a {
+    opacity: 0;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+
+.my-beautiful-extension ._5mfr a:hover {
+    opacity: 1;
+}
+*/
+
+
+/* Standard syntax */
+@keyframes jump {
+  0%   {transform: translate(0px, 0px);}
+  25%  {transform: translate(-50px, 0px);}
+  50%  {transform: translate(80px, 0px);}
+  100% {transform: translate(0px, 0px);}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
