@@ -26,7 +26,7 @@
       "38": "icons/icon-38-off.png"
     },
     "browser_style": true,
-    "default_title": "apply css"
+    "default_title": "Start a conversation"
   },
 
   "permissions": ["activeTab", "tabs", "storage"]
