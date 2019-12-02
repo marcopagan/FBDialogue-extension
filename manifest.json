@@ -3,7 +3,7 @@
   "name": "fbDialogue",
   "description": "Once upon a time I had a real conversation on Facebook and it felt good.",
   "version": "1.0",
-  "homepage_url": "https://github.com/calibro/browser-extension-boileplate",
+  "homepage_url": "https://github.com/marcopagan/FBDialogue-extension",
   "icons": {
     "19": "icons/icon-19.png",
     "38": "icons/icon-38.png",
